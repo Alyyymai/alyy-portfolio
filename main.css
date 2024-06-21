@@ -5136,10 +5136,11 @@ Created using IcoMoon - icomoon.io
     width: 100%;
   }
 }
-#uiux{
-  width: 100%;
-  float: left;
-  padding: 5px;
+.column1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 /* Header */
 /* Navbar style*/
